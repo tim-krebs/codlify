@@ -1,1 +1,5 @@
 # Codlify 
+
+## FAQ
+
+## Contact
